@@ -96,3 +96,15 @@
 // }
 
 
+//recursion function
+
+// let num=1
+// let name=function first(a){
+// if (num > a){
+//     return
+// }
+// console.log(a)
+// num++
+// first(10)
+// }
+// name(2)
